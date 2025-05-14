@@ -33,12 +33,13 @@ Switch to drawing mode from design mode
 2. Select the projected view to generate orthographic projections
 
 ## INPUT
-![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
 
+![Screenshot 2025-05-14 183237](https://github.com/user-attachments/assets/eb6c3758-3487-44d3-bf04-29486a5a64dd)
 
-## RESULT:
+
+
 Thus, the given 3D model is converted into orthographic view.
 
 
